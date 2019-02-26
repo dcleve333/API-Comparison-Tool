@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XUnitCompareAPIs", "XUnitCompareAPIs\XUnitCompareAPIs.csproj", "{62589D1C-57D0-4066-8B06-33F93005C01C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleCompareAPIs", "ConsoleCompareAPIs\ConsoleCompareAPIs.csproj", "{C94DC0B8-491E-4792-850A-012A8603ED00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9BD600C2-AB93-48E9-A870-68DF892BA8B2}"
+	ProjectSection(SolutionItems) = preProject
+		getignore.txt = getignore.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62589D1C-57D0-4066-8B06-33F93005C01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62589D1C-57D0-4066-8B06-33F93005C01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62589D1C-57D0-4066-8B06-33F93005C01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62589D1C-57D0-4066-8B06-33F93005C01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C94DC0B8-491E-4792-850A-012A8603ED00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94DC0B8-491E-4792-850A-012A8603ED00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94DC0B8-491E-4792-850A-012A8603ED00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94DC0B8-491E-4792-850A-012A8603ED00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26B6F939-C804-421A-AA2C-64B70EAAAD97}
+	EndGlobalSection
+EndGlobal
